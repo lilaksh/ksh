@@ -1,0 +1,6 @@
+rule:
+
+---------------------------------------------------------------------------------------------------
+good practise:
+1. Do safety checks before initiating a new variable and/or assigning value to a new variable.
+
